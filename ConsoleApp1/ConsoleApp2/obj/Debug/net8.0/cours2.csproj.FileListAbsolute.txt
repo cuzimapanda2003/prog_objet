@@ -1,0 +1,14 @@
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\ConsoleApp2\bin\Debug\net8.0\cours2.exe
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\ConsoleApp2\bin\Debug\net8.0\cours2.deps.json
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\ConsoleApp2\bin\Debug\net8.0\cours2.runtimeconfig.json
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\ConsoleApp2\bin\Debug\net8.0\cours2.dll
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\ConsoleApp2\bin\Debug\net8.0\cours2.pdb
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\cours2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\cours2.AssemblyInfoInputs.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\cours2.AssemblyInfo.cs
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\cours2.csproj.CoreCompileInputs.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\cours2.dll
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\refint\cours2.dll
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\cours2.pdb
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\cours2.genruntimeconfig.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\ConsoleApp2\obj\Debug\net8.0\ref\cours2.dll

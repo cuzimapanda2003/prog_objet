@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\exercices\exercices\main.cpp(53,6): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\exercices\exercices\main.cpp(57,10): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  exercices.vcxproj -> C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\exercices\x64\Debug\exercices.exe

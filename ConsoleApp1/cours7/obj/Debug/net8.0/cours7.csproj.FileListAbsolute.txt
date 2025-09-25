@@ -1,0 +1,14 @@
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\cours7\bin\Debug\net8.0\cours7.exe
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\cours7\bin\Debug\net8.0\cours7.deps.json
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\cours7\bin\Debug\net8.0\cours7.runtimeconfig.json
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\cours7\bin\Debug\net8.0\cours7.dll
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\cours7\bin\Debug\net8.0\cours7.pdb
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\cours7\obj\Debug\net8.0\cours7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\cours7\obj\Debug\net8.0\cours7.AssemblyInfoInputs.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\cours7\obj\Debug\net8.0\cours7.AssemblyInfo.cs
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\cours7\obj\Debug\net8.0\cours7.csproj.CoreCompileInputs.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\cours7\obj\Debug\net8.0\cours7.dll
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\cours7\obj\Debug\net8.0\refint\cours7.dll
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\cours7\obj\Debug\net8.0\cours7.pdb
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\cours7\obj\Debug\net8.0\cours7.genruntimeconfig.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\ConsoleApp1\cours7\obj\Debug\net8.0\ref\cours7.dll
