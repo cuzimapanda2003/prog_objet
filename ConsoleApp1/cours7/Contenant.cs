@@ -13,9 +13,30 @@ namespace cours7
 
         public string color { get; } = "blanc";
 
-        public Ingredient? ingredient { get; set; } = null;
+        public Ingredient? ingredient
+        {
+            get { return _ingredient; }
+            set
+            {
+                if (value == null)
+                {
+                    _ingredient = null;
+                }
+                else if (_ingredient == null)
+                {
+                    _ingredient = value;
+                }
+                else
+                {
+                    Console.WriteLine("Le contenant est déjà plein !");
+                }
+            }
+        }
 
-       public  Contenant() {
+        private Ingredient? _ingredient = null;
+
+
+        public Contenant() {
             type = "bowl";
             greatness = "small";
            
@@ -49,6 +70,27 @@ namespace cours7
             Ingredient? temp = ingredient; 
             ingredient = null;            
             return temp;                  
+        }
+
+        public void PrendIngredient()
+        {
+            if (ingredient == null) 
+            {
+                Console.WriteLine("Le contenant est vide !");
+            }
+            else
+            {
+                ingredient = null;
+            }
+        }
+
+
+        public override string ToString()
+        {
+            string texte = $"contenant {color}";
+            if (ingredient != null)
+            { texte += $" {ingredient.Name} {ingredient.State} "; }
+            return texte;
         }
 
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marcb\\OneDrive - Cégep de Shawinigan\\_Cégep\\session 03\\Programmation orienté objet\\ConsoleApp1\\ConsoleApp1\\cours1.csproj": {}
+    "C:\\Users\\marcb\\OneDrive - Cégep de Shawinigan\\_Cégep\\session 03\\Programmation orienté objet\\prog_objet\\ConsoleApp1\\ConsoleApp1\\cours1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marcb\\OneDrive - Cégep de Shawinigan\\_Cégep\\session 03\\Programmation orienté objet\\ConsoleApp1\\ConsoleApp1\\cours1.csproj": {
+    "C:\\Users\\marcb\\OneDrive - Cégep de Shawinigan\\_Cégep\\session 03\\Programmation orienté objet\\prog_objet\\ConsoleApp1\\ConsoleApp1\\cours1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcb\\OneDrive - Cégep de Shawinigan\\_Cégep\\session 03\\Programmation orienté objet\\ConsoleApp1\\ConsoleApp1\\cours1.csproj",
+        "projectUniqueName": "C:\\Users\\marcb\\OneDrive - Cégep de Shawinigan\\_Cégep\\session 03\\Programmation orienté objet\\prog_objet\\ConsoleApp1\\ConsoleApp1\\cours1.csproj",
         "projectName": "cours1",
-        "projectPath": "C:\\Users\\marcb\\OneDrive - Cégep de Shawinigan\\_Cégep\\session 03\\Programmation orienté objet\\ConsoleApp1\\ConsoleApp1\\cours1.csproj",
+        "projectPath": "C:\\Users\\marcb\\OneDrive - Cégep de Shawinigan\\_Cégep\\session 03\\Programmation orienté objet\\prog_objet\\ConsoleApp1\\ConsoleApp1\\cours1.csproj",
         "packagesPath": "C:\\Users\\marcb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcb\\OneDrive - Cégep de Shawinigan\\_Cégep\\session 03\\Programmation orienté objet\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\marcb\\OneDrive - Cégep de Shawinigan\\_Cégep\\session 03\\Programmation orienté objet\\prog_objet\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FA01266-EB24-4BB1-84A8-09390FC8DE7E}|cours7\\cours7.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 03\\programmation orient\u00E9 objet\\consoleapp1\\cours7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FA01266-EB24-4BB1-84A8-09390FC8DE7E}|cours7\\cours7.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 03\\programmation orient\u00E9 objet\\prog_objet\\consoleapp1\\cours7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FA01266-EB24-4BB1-84A8-09390FC8DE7E}|cours7\\cours7.csproj|solutionrelative:cours7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FA01266-EB24-4BB1-84A8-09390FC8DE7E}|cours7\\cours7.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 03\\programmation orient\u00E9 objet\\consoleapp1\\cours7\\contenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FA01266-EB24-4BB1-84A8-09390FC8DE7E}|cours7\\cours7.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 03\\programmation orient\u00E9 objet\\prog_objet\\consoleapp1\\cours7\\contenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FA01266-EB24-4BB1-84A8-09390FC8DE7E}|cours7\\cours7.csproj|solutionrelative:cours7\\contenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FA01266-EB24-4BB1-84A8-09390FC8DE7E}|cours7\\cours7.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 03\\programmation orient\u00E9 objet\\consoleapp1\\cours7\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FA01266-EB24-4BB1-84A8-09390FC8DE7E}|cours7\\cours7.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 03\\programmation orient\u00E9 objet\\prog_objet\\consoleapp1\\cours7\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FA01266-EB24-4BB1-84A8-09390FC8DE7E}|cours7\\cours7.csproj|solutionrelative:cours7\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Contenant.cs",
-              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\ConsoleApp1\\cours7\\Contenant.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\cours7\\Contenant.cs",
               "RelativeDocumentMoniker": "cours7\\Contenant.cs",
-              "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\ConsoleApp1\\cours7\\Contenant.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\cours7\\Contenant.cs",
               "RelativeToolTip": "cours7\\Contenant.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAswDAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T19:13:15.115Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Ingredient.cs",
-              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\ConsoleApp1\\cours7\\Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\cours7\\Ingredient.cs",
               "RelativeDocumentMoniker": "cours7\\Ingredient.cs",
-              "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\ConsoleApp1\\cours7\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\cours7\\Ingredient.cs",
               "RelativeToolTip": "cours7\\Ingredient.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAYwDMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwDAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T18:44:11.635Z",
               "EditorCaption": ""
@@ -54,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\ConsoleApp1\\cours7\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\cours7\\Program.cs",
               "RelativeDocumentMoniker": "cours7\\Program.cs",
-              "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\ConsoleApp1\\cours7\\Program.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\cours7\\Program.cs",
               "RelativeToolTip": "cours7\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACgAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwDoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T18:42:59.291Z",
               "EditorCaption": ""

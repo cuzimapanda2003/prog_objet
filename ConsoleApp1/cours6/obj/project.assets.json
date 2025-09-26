@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marcb\\OneDrive - Cégep de Shawinigan\\_Cégep\\session 03\\Programmation orienté objet\\ConsoleApp1\\cours6\\cours6.csproj",
+      "projectUniqueName": "C:\\Users\\marcb\\OneDrive - Cégep de Shawinigan\\_Cégep\\session 03\\Programmation orienté objet\\prog_objet\\ConsoleApp1\\cours6\\cours6.csproj",
       "projectName": "cours6",
-      "projectPath": "C:\\Users\\marcb\\OneDrive - Cégep de Shawinigan\\_Cégep\\session 03\\Programmation orienté objet\\ConsoleApp1\\cours6\\cours6.csproj",
+      "projectPath": "C:\\Users\\marcb\\OneDrive - Cégep de Shawinigan\\_Cégep\\session 03\\Programmation orienté objet\\prog_objet\\ConsoleApp1\\cours6\\cours6.csproj",
       "packagesPath": "C:\\Users\\marcb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marcb\\OneDrive - Cégep de Shawinigan\\_Cégep\\session 03\\Programmation orienté objet\\ConsoleApp1\\cours6\\obj\\",
+      "outputPath": "C:\\Users\\marcb\\OneDrive - Cégep de Shawinigan\\_Cégep\\session 03\\Programmation orienté objet\\prog_objet\\ConsoleApp1\\cours6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

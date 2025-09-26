@@ -48,7 +48,16 @@
             baseBol.afficher();
 
             Console.WriteLine();
-            
+
+            bolBlack.PrendIngredient();
+            bolBlack.afficher();
+            Console.WriteLine();
+
+
+            Console.WriteLine(bolBlack.ToString());
+            Console.WriteLine(baseBol.ToString());
+            Console.WriteLine(blueBol.ToString());
+
         }
     }
 }
