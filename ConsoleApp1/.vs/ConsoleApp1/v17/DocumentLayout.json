@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8569FE49-B7BF-4CA2-9BCB-0E9DA7D88B55}|tp01\\tp01.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 03\\programmation orient\u00E9 objet\\prog_objet\\consoleapp1\\tp01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8569FE49-B7BF-4CA2-9BCB-0E9DA7D88B55}|tp01\\tp01.csproj|solutionrelative:tp01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8569FE49-B7BF-4CA2-9BCB-0E9DA7D88B55}|tp01\\tp01.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 03\\programmation orient\u00E9 objet\\prog_objet\\consoleapp1\\tp01\\maison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8569FE49-B7BF-4CA2-9BCB-0E9DA7D88B55}|tp01\\tp01.csproj|solutionrelative:tp01\\maison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8569FE49-B7BF-4CA2-9BCB-0E9DA7D88B55}|tp01\\tp01.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 03\\programmation orient\u00E9 objet\\prog_objet\\consoleapp1\\tp01\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8569FE49-B7BF-4CA2-9BCB-0E9DA7D88B55}|tp01\\tp01.csproj|solutionrelative:tp01\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8569FE49-B7BF-4CA2-9BCB-0E9DA7D88B55}|tp01\\tp01.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 03\\programmation orient\u00E9 objet\\prog_objet\\consoleapp1\\tp01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8569FE49-B7BF-4CA2-9BCB-0E9DA7D88B55}|tp01\\tp01.csproj|solutionrelative:tp01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8569FE49-B7BF-4CA2-9BCB-0E9DA7D88B55}|tp01\\tp01.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 03\\programmation orient\u00E9 objet\\prog_objet\\consoleapp1\\tp01\\tasdelinge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8569FE49-B7BF-4CA2-9BCB-0E9DA7D88B55}|tp01\\tp01.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 03\\programmation orient\u00E9 objet\\prog_objet\\consoleapp1\\tp01\\panier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8569FE49-B7BF-4CA2-9BCB-0E9DA7D88B55}|tp01\\tp01.csproj|solutionrelative:tp01\\panier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8569FE49-B7BF-4CA2-9BCB-0E9DA7D88B55}|tp01\\tp01.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 03\\programmation orient\u00E9 objet\\prog_objet\\consoleapp1\\tp01\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8569FE49-B7BF-4CA2-9BCB-0E9DA7D88B55}|tp01\\tp01.csproj|solutionrelative:tp01\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,63 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Maison.cs",
               "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\tp01\\Maison.cs",
               "RelativeDocumentMoniker": "tp01\\Maison.cs",
               "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\tp01\\Maison.cs",
               "RelativeToolTip": "tp01\\Maison.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T14:35:46.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Personne.cs",
               "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\tp01\\Personne.cs",
               "RelativeDocumentMoniker": "tp01\\Personne.cs",
               "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\tp01\\Personne.cs",
               "RelativeToolTip": "tp01\\Personne.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T14:36:42.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Panier.cs",
               "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\tp01\\Panier.cs",
               "RelativeDocumentMoniker": "tp01\\Panier.cs",
               "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\tp01\\Panier.cs",
               "RelativeToolTip": "tp01\\Panier.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBwAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T14:37:09.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Laveuse.cs",
               "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\tp01\\Laveuse.cs",
               "RelativeDocumentMoniker": "tp01\\Laveuse.cs",
               "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\tp01\\Laveuse.cs",
               "RelativeToolTip": "tp01\\Laveuse.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswDoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T14:36:55.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CordeALinge.cs",
               "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\tp01\\CordeALinge.cs",
               "RelativeDocumentMoniker": "tp01\\CordeALinge.cs",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TasDeLinge.cs",
               "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\tp01\\TasDeLinge.cs",
               "RelativeDocumentMoniker": "tp01\\TasDeLinge.cs",
@@ -120,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\tp01\\Program.cs",
               "RelativeDocumentMoniker": "tp01\\Program.cs",
               "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\ConsoleApp1\\tp01\\Program.cs",
               "RelativeToolTip": "tp01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T14:33:15.741Z",
               "EditorCaption": ""
