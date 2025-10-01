@@ -1,0 +1,15 @@
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\ConsoleApp1\tp01\obj\Debug\net8.0\tp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\ConsoleApp1\tp01\obj\Debug\net8.0\tp01.AssemblyInfoInputs.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\ConsoleApp1\tp01\obj\Debug\net8.0\tp01.AssemblyInfo.cs
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\ConsoleApp1\tp01\obj\Debug\net8.0\tp01.csproj.CoreCompileInputs.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\ConsoleApp1\tp01\obj\Debug\net8.0\tp01.sourcelink.json
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\ConsoleApp1\tp01\bin\Debug\net8.0\tp01.exe
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\ConsoleApp1\tp01\bin\Debug\net8.0\tp01.deps.json
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\ConsoleApp1\tp01\bin\Debug\net8.0\tp01.runtimeconfig.json
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\ConsoleApp1\tp01\bin\Debug\net8.0\tp01.dll
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\ConsoleApp1\tp01\bin\Debug\net8.0\tp01.pdb
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\ConsoleApp1\tp01\obj\Debug\net8.0\tp01.dll
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\ConsoleApp1\tp01\obj\Debug\net8.0\refint\tp01.dll
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\ConsoleApp1\tp01\obj\Debug\net8.0\tp01.pdb
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\ConsoleApp1\tp01\obj\Debug\net8.0\tp01.genruntimeconfig.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\ConsoleApp1\tp01\obj\Debug\net8.0\ref\tp01.dll
