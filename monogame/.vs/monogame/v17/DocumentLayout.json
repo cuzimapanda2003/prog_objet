@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\monogame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3E79EB3-6A48-46E8-9B32-FE17D6E6C172}|monogame\\monogame.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 03\\programmation orient\u00E9 objet\\prog_objet\\monogame\\monogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3E79EB3-6A48-46E8-9B32-FE17D6E6C172}|monogame\\monogame.csproj|solutionrelative:monogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3E79EB3-6A48-46E8-9B32-FE17D6E6C172}|monogame\\monogame.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 03\\programmation orient\u00E9 objet\\prog_objet\\monogame\\monogame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3E79EB3-6A48-46E8-9B32-FE17D6E6C172}|monogame\\monogame.csproj|solutionrelative:monogame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E79EB3-6A48-46E8-9B32-FE17D6E6C172}|monogame\\monogame.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 03\\programmation orient\u00E9 objet\\prog_objet\\monogame\\monogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E79EB3-6A48-46E8-9B32-FE17D6E6C172}|monogame\\monogame.csproj|solutionrelative:monogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Game1.cs",
               "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\monogame\\monogame\\Game1.cs",
               "RelativeDocumentMoniker": "monogame\\Game1.cs",
               "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\monogame\\monogame\\Game1.cs",
               "RelativeToolTip": "monogame\\Game1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T16:18:33.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\monogame\\monogame\\Program.cs",
               "RelativeDocumentMoniker": "monogame\\Program.cs",
               "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 03\\Programmation orient\u00E9 objet\\prog_objet\\monogame\\monogame\\Program.cs",
               "RelativeToolTip": "monogame\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T16:18:32.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T16:18:32.172Z"
             }
           ]
         }
