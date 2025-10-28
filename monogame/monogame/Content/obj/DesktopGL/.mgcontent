@@ -4,7 +4,9 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
+    <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/monogame/monogame/Content/FeuilleDeMarios.png</File>
     <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/monogame/monogame/Content/images/earth.png</File>
+    <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/monogame/monogame/Content/images/FeuilleDeMarios.png</File>
     <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/monogame/monogame/Content/images/shipLeft.png</File>
     <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/monogame/monogame/Content/images/shipRight.png</File>
     <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/monogame/monogame/Content/images/shipSprite.png</File>
@@ -12,6 +14,8 @@
     <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/monogame/monogame/Content/images/stars.jpg</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
