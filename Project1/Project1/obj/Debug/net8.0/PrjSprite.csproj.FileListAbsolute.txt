@@ -1,0 +1,7 @@
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\Project1\Project1\obj\Debug\net8.0\mgcb.tool.restore
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\Project1\Project1\obj\Debug\net8.0\PrjSprite.csproj.AssemblyReference.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\Project1\Project1\obj\Debug\net8.0\PrjSprite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\Project1\Project1\obj\Debug\net8.0\PrjSprite.AssemblyInfoInputs.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\Project1\Project1\obj\Debug\net8.0\PrjSprite.AssemblyInfo.cs
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\Project1\Project1\obj\Debug\net8.0\PrjSprite.csproj.CoreCompileInputs.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 03\Programmation orienté objet\prog_objet\Project1\Project1\obj\Debug\net8.0\PrjSprite.sourcelink.json

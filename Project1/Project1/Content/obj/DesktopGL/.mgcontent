@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/Project1/Project1/Content/images/face01.ico</File>
+    <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/Project1/Project1/Content/images/face02.ico</File>
+    <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/Project1/Project1/Content/images/face03.ico</File>
+    <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/Project1/Project1/Content/images/face04.ico</File>
+    <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/Project1/Project1/Content/images/nutz_marchegauche.png</File>
+    <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/Project1/Project1/Content/images/nutz_stationnairedroite.png</File>
+    <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/Project1/Project1/Content/images/poule.png</File>
+    <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/Project1/Project1/Content/images/shipAvant.png</File>
+    <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/Project1/Project1/Content/images/shipLeft.png</File>
+    <File>C:/Users/marcb/OneDrive - Cégep de Shawinigan/_Cégep/session 03/Programmation orienté objet/prog_objet/Project1/Project1/Content/images/shipRight.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
