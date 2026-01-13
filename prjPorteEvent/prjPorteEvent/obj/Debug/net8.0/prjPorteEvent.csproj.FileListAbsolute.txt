@@ -1,0 +1,28 @@
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\A25\prjPorteEvent\bin\Debug\net8.0\prjPorteEvent.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\A25\prjPorteEvent\bin\Debug\net8.0\prjPorteEvent.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\A25\prjPorteEvent\bin\Debug\net8.0\prjPorteEvent.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\A25\prjPorteEvent\bin\Debug\net8.0\prjPorteEvent.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\A25\prjPorteEvent\bin\Debug\net8.0\prjPorteEvent.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\A25\prjPorteEvent\obj\Debug\net8.0\prjPorteEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\A25\prjPorteEvent\obj\Debug\net8.0\prjPorteEvent.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\A25\prjPorteEvent\obj\Debug\net8.0\prjPorteEvent.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\A25\prjPorteEvent\obj\Debug\net8.0\prjPorteEvent.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\A25\prjPorteEvent\obj\Debug\net8.0\prjPorteEvent.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\A25\prjPorteEvent\obj\Debug\net8.0\refint\prjPorteEvent.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\A25\prjPorteEvent\obj\Debug\net8.0\prjPorteEvent.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\A25\prjPorteEvent\obj\Debug\net8.0\prjPorteEvent.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\A25\prjPorteEvent\obj\Debug\net8.0\ref\prjPorteEvent.dll
+C:\Users\marcb\Downloads\prjPorteEvent\prjPorteEvent\bin\Debug\net8.0\prjPorteEvent.exe
+C:\Users\marcb\Downloads\prjPorteEvent\prjPorteEvent\bin\Debug\net8.0\prjPorteEvent.deps.json
+C:\Users\marcb\Downloads\prjPorteEvent\prjPorteEvent\bin\Debug\net8.0\prjPorteEvent.runtimeconfig.json
+C:\Users\marcb\Downloads\prjPorteEvent\prjPorteEvent\bin\Debug\net8.0\prjPorteEvent.dll
+C:\Users\marcb\Downloads\prjPorteEvent\prjPorteEvent\bin\Debug\net8.0\prjPorteEvent.pdb
+C:\Users\marcb\Downloads\prjPorteEvent\prjPorteEvent\obj\Debug\net8.0\prjPorteEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcb\Downloads\prjPorteEvent\prjPorteEvent\obj\Debug\net8.0\prjPorteEvent.AssemblyInfoInputs.cache
+C:\Users\marcb\Downloads\prjPorteEvent\prjPorteEvent\obj\Debug\net8.0\prjPorteEvent.AssemblyInfo.cs
+C:\Users\marcb\Downloads\prjPorteEvent\prjPorteEvent\obj\Debug\net8.0\prjPorteEvent.csproj.CoreCompileInputs.cache
+C:\Users\marcb\Downloads\prjPorteEvent\prjPorteEvent\obj\Debug\net8.0\prjPorteEvent.dll
+C:\Users\marcb\Downloads\prjPorteEvent\prjPorteEvent\obj\Debug\net8.0\refint\prjPorteEvent.dll
+C:\Users\marcb\Downloads\prjPorteEvent\prjPorteEvent\obj\Debug\net8.0\prjPorteEvent.pdb
+C:\Users\marcb\Downloads\prjPorteEvent\prjPorteEvent\obj\Debug\net8.0\prjPorteEvent.genruntimeconfig.cache
+C:\Users\marcb\Downloads\prjPorteEvent\prjPorteEvent\obj\Debug\net8.0\ref\prjPorteEvent.dll

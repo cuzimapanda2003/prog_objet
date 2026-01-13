@@ -1,0 +1,43 @@
+C:\_data\_college\420-1Q6-SW\c#a19\delegate\delegates\delegates\bin\Debug\delegates.exe.config
+C:\_data\_college\420-1Q6-SW\c#a19\delegate\delegates\delegates\obj\Debug\delegates.csprojResolveAssemblyReference.cache
+C:\_data\_college\420-1Q6-SW\c#a19\delegate\delegates\delegates\bin\Debug\delegates.exe
+C:\_data\_college\420-1Q6-SW\c#a19\delegate\delegates\delegates\bin\Debug\delegates.pdb
+C:\_data\_college\420-1Q6-SW\c#a19\delegate\delegates\delegates\obj\Debug\delegates.exe
+C:\_data\_college\420-1Q6-SW\c#a19\delegate\delegates\delegates\obj\Debug\delegates.pdb
+C:\a_dataL\420-1Q6-SW\c#a19\delegate\delegates\delegates\bin\Debug\delegates.exe.config
+C:\a_dataL\420-1Q6-SW\c#a19\delegate\delegates\delegates\bin\Debug\delegates.exe
+C:\a_dataL\420-1Q6-SW\c#a19\delegate\delegates\delegates\bin\Debug\delegates.pdb
+C:\a_dataL\420-1Q6-SW\c#a19\delegate\delegates\delegates\obj\Debug\delegates.csprojAssemblyReference.cache
+C:\a_dataL\420-1Q6-SW\c#a19\delegate\delegates\delegates\obj\Debug\delegates.csproj.CoreCompileInputs.cache
+C:\a_dataL\420-1Q6-SW\c#a19\delegate\delegates\delegates\obj\Debug\delegates.exe
+C:\a_dataL\420-1Q6-SW\c#a19\delegate\delegates\delegates\obj\Debug\delegates.pdb
+C:\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates\delegates\bin\Debug\delegates.exe.config
+C:\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates\delegates\bin\Debug\delegates.exe
+C:\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates\delegates\bin\Debug\delegates.pdb
+C:\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates\delegates\obj\Debug\delegates.csprojAssemblyReference.cache
+C:\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates\delegates\obj\Debug\delegates.csproj.CoreCompileInputs.cache
+C:\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates\delegates\obj\Debug\delegates.exe
+C:\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates\delegates\obj\Debug\delegates.pdb
+C:\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates2020_1\delegates\bin\Debug\delegates.exe.config
+C:\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates2020_1\delegates\bin\Debug\delegates.exe
+C:\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates2020_1\delegates\bin\Debug\delegates.pdb
+C:\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates2020_1\delegates\obj\Debug\delegates.csprojAssemblyReference.cache
+C:\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates2020_1\delegates\obj\Debug\delegates.csproj.CoreCompileInputs.cache
+C:\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates2020_1\delegates\obj\Debug\delegates.exe
+C:\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates2020_1\delegates\obj\Debug\delegates.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates2020_1\delegates\bin\Debug\delegates.exe.config
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates2020_1\delegates\bin\Debug\delegates.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates2020_1\delegates\bin\Debug\delegates.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates2020_1\delegates\obj\Debug\delegates.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates2020_1\delegates\obj\Debug\delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates2020_1\delegates\obj\Debug\delegates.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates2020_1\delegates\obj\Debug\delegates.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\420-1Q6-SW\covidA2020\8-Les delegates\delegatea19\delegates2020_1\delegates\obj\Debug\delegates.pdb
+C:\Users\marcb\Downloads\delegates2020_1_1\delegates2020_1\delegates\bin\Debug\delegates.exe.config
+C:\Users\marcb\Downloads\delegates2020_1_1\delegates2020_1\delegates\bin\Debug\delegates.exe
+C:\Users\marcb\Downloads\delegates2020_1_1\delegates2020_1\delegates\bin\Debug\delegates.pdb
+C:\Users\marcb\Downloads\delegates2020_1_1\delegates2020_1\delegates\obj\Debug\delegates.csproj.AssemblyReference.cache
+C:\Users\marcb\Downloads\delegates2020_1_1\delegates2020_1\delegates\obj\Debug\delegates.exe.config
+C:\Users\marcb\Downloads\delegates2020_1_1\delegates2020_1\delegates\obj\Debug\delegates.csproj.CoreCompileInputs.cache
+C:\Users\marcb\Downloads\delegates2020_1_1\delegates2020_1\delegates\obj\Debug\delegates.exe
+C:\Users\marcb\Downloads\delegates2020_1_1\delegates2020_1\delegates\obj\Debug\delegates.pdb
